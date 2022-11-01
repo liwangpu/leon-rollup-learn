@@ -1,0 +1,24 @@
+{
+  "name": "leon-rollup-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwangpu/leon-rollup-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liwangpu/leon-rollup-learn/issues"
+  },
+  "homepage": "https://github.com/liwangpu/leon-rollup-learn#readme",
+  "devDependencies": {
+    "rollup": "^3.2.5"
+  },
+  "type": "module"
+}
